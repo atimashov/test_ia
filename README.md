@@ -25,7 +25,7 @@ It's necessary to use any python web framework to accomplish this task i.e flask
 	- input for user to manually enter x1 and x2
 	- display the inferred value (y) to the user
 
-The visualization must be interactive e.g. by utilizing plotly
+The visualization must be **interactive** e.g. by utilizing plotly
 
 #### 3. Probability and Uncertainty
 Airlines are commonly known to utilize overbooking to earn extra profits or avoiding losses over the fact that not all passenger will show up on boarding day. We will use a simple scenario here to demonstrate how airline might do so.
